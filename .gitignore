@@ -1,0 +1,4 @@
+node_modules
+server/auth.js
+.vscode
+data
